@@ -81,7 +81,7 @@ a{
 
 a:hover{
     color: white !important;
-    animation-name: shake;
+    animation-name: bounce;
     animation-duration: 0.5s;
     animation-iteration-count: infinite;
     cursor: pointer;
